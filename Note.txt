@@ -1,0 +1,16 @@
+TodoItem
+-- id
+--test
+--completed
+Servicio
+--añadir tarea
+--eliminar tarea
+--actualizar
+--obtener lista
+--obtener tarea por id
+Contenerdor
+--get
+--get(id)
+--post
+--put
+--delete
